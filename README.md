@@ -25,25 +25,6 @@ const skills = {
     other: ['Git', 'RESTful APIs', 'Responsive Design']
 }
 ```
-
-## 🚀 Featured Projects
-
-### 1. VNS - Inventory Management System
-- A comprehensive solution for inventory tracking and management
-- Tech Stack: MERN, TypeScript, Tailwind CSS
-
-### 2. Studystay - Hotel Management Application
-- End-to-end hotel management solution
-- Features: Booking system, inventory management, billing
-
-### 3. egamyba.lt - SaaS Application
-- Custom SaaS platform for business solutions
-- Implemented with Next.js and MongoDB
-
-### 4. CRM & Inventory Management System (aetmaad.com)
-- Integrated system for customer relationship and inventory management
-- Features: Real-time tracking, reporting, user management
-
 ## 🎓 Education
 - BS Software Engineering, National Textile University (2017-2021)
 
