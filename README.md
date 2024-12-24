@@ -44,10 +44,6 @@ const skills = {
 - Integrated system for customer relationship and inventory management
 - Features: Real-time tracking, reporting, user management
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
 ## 🎓 Education
 - BS Software Engineering, National Textile University (2017-2021)
 
